@@ -34,3 +34,12 @@ D:\Mi Trabajo\Tutoriales\asp.net-mvc\Riot-JS\Model\bin\Debug\EntityFramework.Sql
 D:\Mi Trabajo\Tutoriales\asp.net-mvc\Riot-JS\Model\obj\Debug\Model.dll
 D:\Mi Trabajo\Tutoriales\asp.net-mvc\Riot-JS\Model\obj\Debug\Model.pdb
 D:\Mi Trabajo\Tutoriales\asp.net-mvc\Riot-JS\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\Model\bin\Debug\Model.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\Model\bin\Debug\Model.pdb
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\Model\obj\Debug\Model.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\Model\obj\Debug\Model.pdb

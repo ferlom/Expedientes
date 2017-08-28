@@ -48,3 +48,28 @@ D:\Mi Trabajo\Tutoriales\asp.net-mvc\Riot-JS\RiotJs\bin\System.Web.Mvc.xml
 D:\Mi Trabajo\Tutoriales\asp.net-mvc\Riot-JS\RiotJs\obj\Debug\RiotJS.csprojResolveAssemblyReference.cache
 D:\Mi Trabajo\Tutoriales\asp.net-mvc\Riot-JS\RiotJs\obj\Debug\RiotJs.dll
 D:\Mi Trabajo\Tutoriales\asp.net-mvc\Riot-JS\RiotJs\obj\Debug\RiotJs.pdb
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\RiotJs.dll.config
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\RiotJs.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\RiotJs.pdb
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\EntityFramework.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\EntityFramework.SqlServer.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\Model.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Helpers.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Mvc.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Razor.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Webpages.Deployment.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Webpages.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Webpages.Razor.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\Model.pdb
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\EntityFramework.xml
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\EntityFramework.SqlServer.xml
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Razor.xml
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Webpages.xml
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Webpages.Deployment.xml
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Webpages.Razor.xml
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Helpers.xml
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\bin\System.Web.Mvc.xml
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\obj\Debug\RiotJS.csprojResolveAssemblyReference.cache
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\obj\Debug\RiotJs.dll
+C:\Users\app\Source\Repos\Riot-JS-ASP.NET-MVC\RiotJs\obj\Debug\RiotJs.pdb
